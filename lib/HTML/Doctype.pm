@@ -3,7 +3,7 @@ use 5.008;
 use strict;
 use warnings;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 package HTML::Doctype::Detector;
 use strict;
@@ -184,9 +184,9 @@ be used to detect document type declarations.
 
 Future versions may offer additional functionality.
 
-=head1 AUTHOR AND COPYRIGHT
+=head1 AUTHOR / COPYRIGHT / LICENSE
 
-  Copyright (c) 2004 Bjoern Hoehrmann <bjoern@hoehrmann.de>.
+  Copyright (c) 2004-2008 Bjoern Hoehrmann <bjoern@hoehrmann.de>.
   This module is licensed under the same terms as Perl itself.
 
 =cut

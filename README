@@ -1,5 +1,5 @@
-HTML-Doctype version 0.01
-=========================
+HTML-Doctype
+============
 
 Fun stuff with document type declarations in HTML / XHTML / XML
 documents.
@@ -21,9 +21,7 @@ This module requires these other modules and libraries:
 
 COPYRIGHT AND LICENCE
 
-Put the correct copyright and licence information here.
-
-Copyright (C) 2004 by Bjoern Hoehrmann <bjoern@hoehrmann.de>
+Copyright (C) 2004-2008 by Bjoern Hoehrmann <bjoern@hoehrmann.de>
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself, either Perl version 5.8.2 or,
